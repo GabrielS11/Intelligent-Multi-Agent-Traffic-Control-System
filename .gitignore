@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+*.db
+*.log
+
+# Virtual environment
+venv/
+env/
+.venv/
+.env/
+
+# Docker
+docker-compose.yml
+Dockerfile
+
+# Configuração local
+config/
+*.local
